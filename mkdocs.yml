@@ -2,3 +2,86 @@ site_name: My Docs
 
 theme:
   name: material
+
+  palette:
+    # Palette toggle for automatic mode
+    - media: "(prefers-color-scheme)"
+      # scheme: slate
+      primary: yellow
+      accent: yellow
+      toggle:
+        icon: material/brightness-auto
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: yellow
+      accent: yellow
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: yellow
+      accent: yellow
+      toggle:
+        icon: material/brightness-4
+        name: Switch to system preference
+
+  language: zh
+
+  logo: canada-logo.svg
+  favicon: Canada-Flag.png
+
+  features:
+    - navigation.instant
+    - navigation.tracking
+    - navigation.tabs
+    # - navigation.tabs.sticky
+    # - navigation.sections
+    - navigation.path
+    - navigation.indexes
+    - navigation.top
+    - header.autohide
+    - navigation.footer
+    - search.highlight
+    - search.share
+    - search.suggest
+    - content.code.annotate
+    - content.code.copy
+
+extra:
+  social:
+    - icon: fontawesome/brands/twitter
+      link: https://github.com/@
+    - icon: fontawesome/brands/facebook
+      link: https://facebook.com/@
+    - icon: fontawesome/brands/instagram
+      link: https://instagram.com/@
+    - icon: fontawesome/solid/paper-plane
+      link: mailto:811@qq.com
+  generator: false
+
+plugins:
+  - search
+  - tags
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - tables
+  - footnotes
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - md_in_html
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
