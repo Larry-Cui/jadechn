@@ -1,4 +1,28 @@
-site_name: 顶誉图书馆 Jade Sunrise Law Library
+site_name: 顶誉法律课堂
+site_url: https://jadesunriselaw.netlify.app/
+copyright: 版权所有 &copy; 2023 顶誉律师行
+
+nav:
+  - 房屋买卖:
+      - 1: index.md
+      - 2: index.md
+      - 3: index.md
+  - 婚姻/遗嘱:
+      - 1: index.md
+      - 2: index.md
+      - 3: index.md
+      - 4: index.md
+  - 律师公证:
+      - 1: index.md
+      - 2: index.md
+      - 3: index.md
+  - 留学移民:
+      - 1: index.md
+      - 2: index.md
+  - 收费公示:
+      - 1: index.md
+      - 2: index.md
+  - 本所地址: address.md
 
 theme:
   name: material
@@ -7,8 +31,8 @@ theme:
     # Palette toggle for automatic mode
     - media: "(prefers-color-scheme)"
       # scheme: slate
-      primary: yellow
-      accent: yellow
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-auto
         name: Switch to light mode
@@ -16,8 +40,8 @@ theme:
     # Palette toggle for light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: yellow
-      accent: yellow
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-7
         name: Switch to dark mode
@@ -25,25 +49,25 @@ theme:
     # Palette toggle for dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: yellow
-      accent: yellow
+      primary: teal
+      accent: teal
       toggle:
         icon: material/brightness-4
         name: Switch to system preference
 
   language: zh
 
-  logo: canada-logo.svg
-  favicon: Canada-Flag.png
+  logo: jade_logo.png
+  favicon: jade_logo.png
 
   features:
-    - navigation.instant
+    - navigation.instant # without fully reloading the page, fast loading function
     - navigation.tracking
-    - navigation.tabs
+    - navigation.tabs #top-level sections are rendered in a menu layer below the header
     # - navigation.tabs.sticky
     # - navigation.sections
     - navigation.path
-    - navigation.indexes
+    # - navigation.indexes ##enable it if you have an introduction to top level
     - navigation.top
     - header.autohide
     - navigation.footer
@@ -62,7 +86,7 @@ extra:
     - icon: fontawesome/brands/instagram
       link: https://instagram.com/@
     - icon: fontawesome/solid/paper-plane
-      link: mailto:811@qq.com
+      link: mailto:info@jadesunriselaw.com
   generator: false
 
 plugins:
