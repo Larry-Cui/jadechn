@@ -1,6 +1,6 @@
-site_name: 顶誉法律课堂
+site_name: 顶誉法律资料库
 site_url: https://jadesunriselaw.netlify.app/
-copyright: 版权所有 &copy; 2023 顶誉律师行
+copyright: 版权所有 &copy; 2023 顶誉律师
 
 nav:
   - 房屋买卖:
@@ -21,7 +21,7 @@ nav:
       - 1: index.md
       - 2: index.md
   - 收费公示:
-      - 1: index.md
+      - 房地产交易法律服务费标准: fees/real-estate.md
       - 2: index.md
   - 本所地址: address.md
 
