@@ -16,7 +16,10 @@
 .styled-table thead tr {
 	background-color: var(--main-color);
 	color: #ffffff;
-	font-weight: bold;
+}
+
+.styled-table thead tr th {
+	font-weight: bolder;
 }
 
 .styled-table th,
