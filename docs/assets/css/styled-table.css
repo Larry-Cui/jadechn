@@ -33,6 +33,7 @@
 
 .styled-table tbody tr:nth-of-type(even) {
 	background-color: var(--light-bg1);
+	color: #000000de;
 }
 
 .styled-table tbody tr:last-of-type {
