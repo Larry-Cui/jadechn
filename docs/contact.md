@@ -12,16 +12,18 @@
 	crossorigin=""
 ></script>
 
-## 我们的办公地址
+## 联系方式
 
 !!! tip "Jade Sunrise Law"
+	Kathy Zhang<br>
+    Jade Sunrise Law<br>
     500-1110 Centre Street NE Calgary, AB T2E 2R2 <br>
     **Tel:** [1 (403) 456-3977](tel:4034563977)<br>
     **Toll Free Fax:** 1(844) 272-3932<br>
     **Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
 
 
-## 我们的位置
+## 办公地址
 
 <div id="map" style="height: 320px"></div>
 <script src="../assets/js/leaf-map.js"></script>

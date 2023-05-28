@@ -39,15 +39,8 @@
  
 ## 如果我打算委托你们作为我的房产买卖律师，需要我怎么做？
 
-您需要向银行和地产经纪提供本所的名称，地址，电话号码等信息，具体如下：
+您需要向银行和地产经纪提供本所的名称，地址，电话号码等信息，详见[联系方式](../contact.md)。
 
-!!! tip "联系方式"
-    Kathy Zhang<br>
-    Jade Sunrise Law<br>
-    500-1110 Centre Street NE Calgary, AB T2E 2R2 <br>
-    Tel: 1 (403) 456-3977<br>
-    Toll Free Fax: 1(844) 272-3932<br>
-    Email: info@jadesunriselaw.com<br>
 
 
 

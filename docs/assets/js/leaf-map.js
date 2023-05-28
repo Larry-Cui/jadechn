@@ -8,4 +8,4 @@ L.tileLayer("https://{s}.tile.openstreetmap.fr/hot/{z}/{x}/{y}.png", {
 		'&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>',
 }).addTo(map);
 
-marker.bindPopup("<b>Hello!</b><br>This is Jade Sunrise Law").openPopup();
+marker.bindPopup("<b>Hi! </b>Jade Sunrise Law is here!").openPopup();
