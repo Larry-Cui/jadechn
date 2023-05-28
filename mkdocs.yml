@@ -20,7 +20,7 @@ nav:
       - 公证业务收费标准: fees/notary.md
       - 遗嘱收费标准: fees/willfee.md
       - 计时费率: fees/hourlyRate.md
-  - 本所地址: address.md
+  - 联系我们: contact.md
 
 theme:
   name: material
