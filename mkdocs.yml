@@ -18,6 +18,7 @@ nav:
       - 房地产交易律师收费标准: fees/real-estate.md
       - 公证业务收费标准: fees/notary.md
       - 遗嘱收费标准: fees/willfee.md
+      - 计时费率: fees/hourlyRate.md
   - 本所地址: address.md
 
 theme:
