@@ -14,6 +14,7 @@ nav:
   - 留学移民:
       - 1: index.md
   - 收费公示:
+      - 公司法律服务收费标准: fees/corporateFee.md
       - 房地产交易律师收费标准: fees/real-estate.md
       - 公证业务收费标准: fees/notary.md
       - 遗嘱收费标准: fees/willfee.md
