@@ -1,23 +1,18 @@
 site_name: 顶誉法律资料库
 site_url: https://jadesunriselaw.netlify.app/
-copyright: 版权所有 &copy; 2023 顶誉律师
+copyright: 版权所有 &copy; 2023 顶誉律师行
 
 nav:
   - 房屋买卖:
       - 共有产权的类型: realestate/joint.md
       - 什么是产权保险: realestate/titleinsure.md
       - 常见问题答复: realestate/faq.md
-      - 3: index.md
   - 婚姻/遗嘱:
       - 1: index.md
-      - 2: index.md
-      - 3: index.md
-      - 4: index.md
   - 律师公证:
       - 公证业务简介: notary/intro.md
   - 留学移民:
       - 1: index.md
-      - 2: index.md
   - 收费公示:
       - 房地产交易律师收费标准: fees/real-estate.md
       - 公证业务收费标准: fees/notary.md
