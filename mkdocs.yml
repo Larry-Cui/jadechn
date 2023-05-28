@@ -19,8 +19,8 @@ nav:
       - 1: index.md
       - 2: index.md
   - 收费公示:
-      - 房地产交易法律服务费标准: fees/real-estate.md
-      - 2: index.md
+      - 房地产交易律师收费标准: fees/real-estate.md
+      - 公证业务收费标准: fees/notary.md
   - 本所地址: address.md
 
 theme:
