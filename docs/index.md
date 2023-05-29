@@ -1,28 +1,32 @@
-# Welcome to MkDocs
+# 为什么会有法律资料库？
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## 先要明确的两件事
 
-## Commands
+本资料库不是顶誉律师行（Jade Sunrise Law）的官方网站，想要访问官网的用户，请移步至[www.jadesunriselaw.com](https://www.jadesunriselaw.com){:target="_blank"}。
 
-- `mkdocs new [dir-name]` - Create a new project.
-- `mkdocs serve` - Start the live-reloading docs server.
-- `mkdocs build` - Build the documentation site.
-- `mkdocs -h` - Print help message and exit.
+本资料库的内容或信息，不代表本律师行或任何律师个人提供的专业意见。用户在开始浏览本资料库前，请先阅读[免责声明](about/disclaimer.md)。如您无法接受免责声明的内容，请不要继续浏览本资料库。
 
-## Project layout
+## 这个法律资料库到底是什么？
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+通俗地说，这个资料库是个工作笔记本，记录了本律师行的各位律师和工作人员，在加拿大从事法律服务工作时，总结的知识要点、心得体会，也包括了工作中反复用到的一些资料和信息。为方便内部共享，所以我们做了这个资料库。
 
-Now, when a new commit is pushed to either the master or main branches, the static site is automatically built and deployed. Push your changes to see the workflow in action.
+虽然资料库的内容更广泛、更新更及时，但由于其非正式、非严谨的内容产生方式，错漏在所难免，因此我们把资料库和官网做了区分，也特意增加了免责声明。当然，我们也不排除一种可能性，就是资料库中的成熟内容，今后会合并到官网中。
 
-<!-- ![small beauty](assets/small.jpg){align=left} -->
 
-If the GitHub Page doesn't show up after a few minutes, go to the settings of your repository and ensure that the publishing source branch for your GitHub Page is set to gh-pages.
+## 为什么您能看到这个资料库？
 
-Your documentation should shortly appear at <username>.github.io/<repository>.
+既然是本律师行内部共享资料库，那为什么要放到网上？
 
-with MkDocs¶
-If you prefer to deploy your project documentation manually, you can just invoke the following command from the directory containing the mkdocs.yml file:
+在加拿大的华人社区中，甚少有中文的法律普及信息。收录进本资料库的文章、数据、甚至是表格，都是我们每个人的劳动成果，我们自认为很有价值，为此感到很自豪，愿意免费分享到网上，让更多的人能够看到。
+
+## 应该怎么使用资料库？
+
+虽然我们一直在努力做到极致，但我们只是普通人，普通人就会犯错，所以没法保证资料库内容 100% 正确。
+
+古人云：尽信书不如无书，这个道路同样也适用于本资料库。用户应该抱着怀疑的态度，谨慎的看待本资料库的内容，多方求证，不偏听偏信。
+
+话说回来，这不就应该是我们对待所有事情的态度么？
+
+
+
+
