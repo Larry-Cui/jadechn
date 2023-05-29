@@ -26,5 +26,5 @@
 ## 办公地址
 
 <div id="map" style="height: 320px"></div>
-<script src="../assets/js/leaf-map.js"></script>
+<script src="../../assets/js/leaf-map.js"></script>
 
