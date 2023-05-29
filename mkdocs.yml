@@ -59,7 +59,7 @@ theme:
   favicon: jade_logo.png
 
   features:
-    - navigation.instant # without fully reloading the page, fast loading function
+    # - navigation.instant # without fully reloading the page, fast loading function
     - navigation.tracking
     - navigation.tabs #top-level sections are rendered in a menu layer below the header
     # - navigation.tabs.sticky
