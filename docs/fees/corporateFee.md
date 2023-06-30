@@ -1,5 +1,3 @@
-<!-- Add customized css -->
-<link rel="stylesheet" href="/assets/css/styled-table.css" />
 
 ## 公司设立阶段
 

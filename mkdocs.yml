@@ -15,10 +15,10 @@ nav:
   - 留学移民:
       - 首页: immigration/crs.md
   - 收费公示:
-      - 公司法律服务收费标准: fees/corporateFee.md
-      - 房地产交易律师收费标准: fees/real-estate.md
+      - 房地产交易收费标准: fees/real-estate.md
       - 公证业务收费标准: fees/notary.md
       - 遗嘱收费标准: fees/willfee.md
+      - 公司法律服务收费标准: fees/corporateFee.md
       - 计时费率: fees/hourlyRate.md
   - 关于我们:
       - 建立本站的目的: index.md
@@ -110,3 +110,13 @@ markdown_extensions:
   - def_list
   - pymdownx.tasklist:
       custom_checkbox: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_javascript:
+  - assets/js/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+
+extra_css:
+  - assets/css/styled-table.css
