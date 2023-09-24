@@ -1,3 +1,5 @@
+
+
 <link
 	rel="stylesheet"
 	href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
@@ -28,3 +30,6 @@
 <div id="map" style="height: 320px"></div>
 <script src="../../assets/js/leaf-map.js"></script>
 
+<script> 
+document.addEventListener("click", ()=>{document.location.reload()});
+</script>

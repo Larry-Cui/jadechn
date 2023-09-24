@@ -1,29 +1,29 @@
-site_name: 顶誉法律资料库
+site_name: Jade Sunrise Law Office Manual
 site_url: https://jadesunriselaw.netlify.app/
-copyright: 版权所有 &copy; 2023 顶誉律师行
+copyright: Copyright &copy; 2023 Jade Sunrise Law
 
 nav:
-  - 房屋买卖:
-      - 共有产权的类型: realestate/joint.md
-      - 什么是产权保险: realestate/titleinsure.md
-      - 常见问题答复: realestate/faq.md
-  - 婚姻/遗嘱:
-      - 遗嘱的重要性: family/will-important.md
-      - 如何选择遗嘱执行人: family/willDirector.md
-  - 律师公证:
-      - 公证业务简介: notary/intro.md
-  - 留学移民:
-      - 首页: immigration/crs.md
-  - 收费公示:
-      - 房地产交易收费标准: fees/real-estate.md
-      - 公证业务收费标准: fees/notary.md
-      - 遗嘱收费标准: fees/willfee.md
-      - 公司法律服务收费标准: fees/corporateFee.md
-      - 计时费率: fees/hourlyRate.md
-  - 关于我们:
-      - 建立本站的目的: index.md
-      - 联系我们: about/contact.md
-      - 免责声明: about/disclaimer.md
+  - Real Estate:
+      - Joint Ownership: realestate/joint.md
+      - What's Title Insurance: realestate/titleinsure.md
+      - FAQ: realestate/faq.md
+  - Family and Wills:
+      - Why We Need a Will: family/will-important.md
+      - How to Pick Your Will Executor: family/willDirector.md
+  - Notary Services:
+      - A Brief Introduction: notary/intro.md
+  - Immigration:
+      - Front Page: immigration/crs.md
+  - Fees and Disbursements:
+      - For Real Estate: fees/real-estate.md
+      - For Notary services: fees/notary.md
+      - For Will: fees/willfee.md
+      - For Corporate Services: fees/corporateFee.md
+      - Hourly Rate: fees/hourlyRate.md
+  - About:
+      - What is it for?: index.md
+      - Contact Us: about/contact.md
+      - Disclaimer: about/disclaimer.md
 
 theme:
   name: material
@@ -56,13 +56,13 @@ theme:
         icon: material/brightness-4
         name: Switch to system preference
 
-  language: zh
+  language: en
 
   logo: jade_logo.png
   favicon: jade_logo.png
 
   features:
-    # - navigation.instant # without fully reloading the page, fast loading function
+    - navigation.instant # without fully reloading the page, fast loading function
     - navigation.tracking
     - navigation.tabs #top-level sections are rendered in a menu layer below the header
     # - navigation.tabs.sticky
@@ -113,10 +113,12 @@ markdown_extensions:
   - pymdownx.arithmatex:
       generic: true
 
+extra_css:
+  - assets/css/styled-table.css
+  # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+
 extra_javascript:
   - assets/js/mathjax.js
   - https://polyfill.io/v3/polyfill.min.js?features=es6
   - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
-
-extra_css:
-  - assets/css/styled-table.css
+  # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.js

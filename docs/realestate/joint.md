@@ -1,3 +1,5 @@
+# 共有产权的类型和异同
+
 房产的“共有”，也称为“联名”，在加拿大有两种截然不同的方式，两者有很大的差别。这两种共有或联名的方式分别叫做“Joint Tenancy” 和 “Tenants In Common”。
 
 ## Joint Tenancy
