@@ -25,11 +25,15 @@
     **Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
 
 
-## 办公地址
+## 办公地址 
+
+按空格键显示地图
 
 <div id="map" style="height: 320px"></div>
 <script src="../../assets/js/leaf-map.js"></script>
 
 <script> 
-document.addEventListener("click", ()=>{document.location.reload()});
+document.addEventListener("keydown", (e)=>{
+	// console.log(e.keyCode);
+	if (e.keyCode == 32 ) document.location.reload()});
 </script>
