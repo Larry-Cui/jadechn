@@ -1,4 +1,4 @@
-site_name: Jade Sunrise Law Office Manual
+site_name: Office Manual
 site_url: https://jadesunriselaw.netlify.app/
 copyright: Copyright &copy; 2023 Jade Sunrise Law
 
@@ -15,12 +15,12 @@ nav:
       - A Brief Introduction: notary/intro.md
   - Immigration:
       - Front Page: immigration/crs.md
-  - Fees and Disbursements:
-      - For Real Estate: fees/real-estate.md
-      - For Notary services: fees/notary.md
-      - For Will: fees/willfee.md
-      - For Corporate Services: fees/corporateFee.md
-      - Hourly Rate: fees/hourlyRate.md
+  - Others:
+      - Real Estate Fees and Disbursements: fees/real-estate.md
+      - Notary Service Quotation: fees/notary.md
+      - Will Quotation: fees/willfee.md
+      - Corporate Services: fees/corporateFee.md
+      - Hourly Rate 2023: fees/hourlyRate.md
   - About:
       - What is it for?: index.md
       - Contact Us: about/contact.md
