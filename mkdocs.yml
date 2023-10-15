@@ -8,6 +8,8 @@ nav:
       - What's Title Insurance: realestate/titleinsure.md
       - Banks' Contact Info: realestate/bankcontact.md
       - FAQ: realestate/faq.md
+      - Fee Quotations: realestate/email-quotation.md
+      - First Email to clients: realestate/email-1.md
   - Family and Wills:
       - Why We Need a Will: family/will-important.md
       - How to Pick Your Will Executor: family/willDirector.md
@@ -15,12 +17,15 @@ nav:
       - A Brief Introduction: notary/intro.md
   - Immigration:
       - Front Page: immigration/crs.md
-  - Others:
+  - Fees:
       - Real Estate Fees and Disbursements: fees/real-estate.md
       - Notary Service Quotation: fees/notary.md
       - Will Quotation: fees/willfee.md
       - Corporate Services: fees/corporateFee.md
       - Hourly Rate 2023: fees/hourlyRate.md
+  - Others:
+      - Accounts: others/accounts.md
+      - Searches: others/searches.md
   - About:
       - What is it for?: index.md
       - Contact Us: about/contact.md
