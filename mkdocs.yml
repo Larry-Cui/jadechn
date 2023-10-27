@@ -4,12 +4,13 @@ copyright: Copyright &copy; 2023 Jade Sunrise Law
 
 nav:
   - Real Estate:
+      - FAQ: realestate/faq.md
       - Joint Ownership: realestate/joint.md
       - What's Title Insurance: realestate/titleinsure.md
       - Banks' Contact Info: realestate/bankcontact.md
-      - FAQ: realestate/faq.md
       - Fee Quotations: realestate/email-quotation.md
       - First Email to clients: realestate/email-1.md
+      - Land Usage Search: realestate/usage.md
   - Family and Wills:
       - Why We Need a Will: family/will-important.md
       - How to Pick Your Will Executor: family/willDirector.md
