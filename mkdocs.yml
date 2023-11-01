@@ -22,17 +22,17 @@ nav:
       - A Brief Introduction: notary/intro.md
   # - Immigration:
   #     - Front Page: immigration/crs.md
-  - Fees:
-      - Real Estate Fees and Disbursements: fees/real-estate.md
-      - Notary Service Quotation: fees/notary.md
-      - Will Quotation: fees/willfee.md
-      - Corporate Services: fees/corporateFee.md
-      - Hourly Rate 2023: fees/hourlyRate.md
   - Others:
+      - Fees:
+          - Real Estate Fees and Disbursements: fees/real-estate.md
+          - Notary Service Quotation: fees/notary.md
+          - Will Quotation: fees/willfee.md
+          - Corporate Services: fees/corporateFee.md
+          - Hourly Rate 2023: fees/hourlyRate.md
       - Accounts: others/accounts.md
       - Searches: others/searches.md
   - About:
-      - What is it for?: index.md
+      - What is it: index.md
       - Contact Us: about/contact.md
       - Disclaimer: about/disclaimer.md
 
