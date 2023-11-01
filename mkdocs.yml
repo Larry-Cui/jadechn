@@ -10,7 +10,11 @@ nav:
       - Banks' Contact Info: realestate/bankcontact.md
       - Fee Quotations: realestate/email-quotation.md
       - First Email to clients: realestate/email-1.md
+      - Conveyancing Docs List: realestate/docu-list.md
       - Land Usage Search: realestate/usage.md
+  - Corporate:
+      - Prepare Initial Minute Book: corporate/minbook.md
+      - Minute Book of Share Transfer: corporate/minbook-2.md
   - Family and Wills:
       - Why We Need a Will: family/will-important.md
       - How to Pick Your Will Executor: family/willDirector.md

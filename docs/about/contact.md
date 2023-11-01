@@ -14,7 +14,6 @@
 	crossorigin=""
 ></script>
 
-## 联系方式
 
 !!! tip "Jade Sunrise Law"
 	Kathy Zhang<br>
@@ -25,9 +24,13 @@
     **Email:** [info@jadesunriselaw.com](mailto:info@jadesunriselaw.com)<br>
 
 
-## 办公地址 
+=== "办公地址"
 
-按空格键显示地图
+	按空格键或刷新页面以显示地图
+
+=== "Office Address"
+
+	Press the spacebar or refresh the page to display the map
 
 <div id="map" style="height: 320px"></div>
 <script src="../../assets/js/leaf-map.js"></script>
