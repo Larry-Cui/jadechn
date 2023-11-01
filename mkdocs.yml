@@ -16,8 +16,8 @@ nav:
       - How to Pick Your Will Executor: family/willDirector.md
   - Notary Services:
       - A Brief Introduction: notary/intro.md
-  - Immigration:
-      - Front Page: immigration/crs.md
+  # - Immigration:
+  #     - Front Page: immigration/crs.md
   - Fees:
       - Real Estate Fees and Disbursements: fees/real-estate.md
       - Notary Service Quotation: fees/notary.md
@@ -119,6 +119,8 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.arithmatex:
       generic: true
+  - pymdownx.tabbed:
+      alternate_style: true
 
 extra_css:
   - assets/css/styled-table.css
