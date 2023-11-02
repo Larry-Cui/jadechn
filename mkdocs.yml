@@ -33,7 +33,7 @@ nav:
       - Searches: others/searches.md
   - About:
       - What is it: index.md
-      - Contact Us: about/contact.md
+      # - Contact Us: about/contact.md
       - Disclaimer: about/disclaimer.md
 
 theme:
