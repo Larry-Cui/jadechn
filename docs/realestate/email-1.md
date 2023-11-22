@@ -7,9 +7,9 @@
 
     **为了更好的准备的您的过户文件，烦请您帮助确认以下信息：**
 
-    - 请提供您及其他共同购房人（如有）的身份证件照片。
+    - 请提供您及其他共同购房人（如有）的加拿大护照或PR卡照片。
     - 您及其他共同购房人（如有）是否可在房屋交割日前来本所（Calgary）面签所有文件？
-    - 请告知将要登记在产权证上的业主姓名，如果有二人或以上需登记为业主，请告知您希望选择的产权共有形式，即 “共同共有 (Joint Tenants) ” 或 “按份共有 (Tenants in Common)"。两种共有方式的区别，请见链接：https://jadesunriselaw.netlify.app/realestate/joint/。
+    - 请告知将要登记在产权证上的业主姓名，如果有二人或以上需登记为业主，请告知您希望选择的产权共有形式，即 “共同共有 (Joint Tenants) ” 或 “按份共有 (Tenants in Common)"。
     - 请告知您即将过户的房产是用于自住还是出租。
     - 请您告知我们您希望登记在房产证上的邮寄地址。在房产交易完成后，政府会将有关税务和房产的信件邮寄到该地址。
     - 烦请告知此次交易是否有银行贷款， 以及贷款由哪家银行提供（如已告知，请忽略本问题）。
@@ -18,9 +18,7 @@
 
     **关于房屋保险**
 
-    如果你有按揭贷款，则房屋保险为必须项，请联系您的保险公司或保险代理，及时对房屋投保，保险期限最晚于交割日起生效。如果您购买的是townhouse或公寓, 该物业本身可能已经由管理公司办理了房屋保险，这种情况就无需再重复投保。
-
-    在购买保险时，请您注意以下事项：
+    如果你有按揭贷款，则房屋保险为必须项，请联系您的保险公司或保险代理，及时对房屋投保，保险期限最晚于交割日起生效。如果您购买的是townhouse或公寓, 该物业本身可能已经由管理公司办理了房屋保险，这种情况就无需再重复投保。在购买保险时，请您注意以下事项：
 
     - 物业本身的保额不能低于贷款额。如果低于贷款额，则必须有物业重置保障条款，即 guaranteed replacement clause；
     - 保单的第一受偿人（first payable to or loss payable to）必须是您的贷款银行。我们将在收到您的贷款指示后告知您银行的联系地址，该地址需要写在保单当中。
@@ -35,7 +33,7 @@
 
     To better prepare your transfer documents, kindly confirm the following information:
 
-    - Please provide photos of your identification documents as well as those of any other co-purchasers (if applicable).
+    - Please provide photos of your identification documents （passport or PR card) as well as those of any other co-purchasers (if applicable).
     - Can you and any other co-purchasers (if applicable) come to our office in Calgary for the in-person signing of all documents before the closing date?
     - Please inform us of the name(s) to be registered on the property title. If there are two or more owners to be registered, please specify your choice of joint tenancy or tenants in common. 
     - Let us know if the property you are transferring will be used for own use or for rental.
@@ -65,7 +63,7 @@
  
     **为顺利办理房产交易过户，烦请帮助确认以下信息：**
 
-    - 请提供您本人及配偶（如有）的身份证件照片。
+    - 请提供您本人及配偶（如有）的加拿大护照或PR卡照片。
     - 您本人及配偶（如有）是否可在房屋交割日前来本所（Calgary）面签所有文件。
     - 该房屋的按揭贷款如果尚未还清，请提供按揭贷款号码及借款人姓名，我们会与银行联系办理归还贷款事宜。
     - 如果拟出售房屋为house，请提供本房屋的测绘图（Real Property Report,  或者 RPR）。
@@ -79,7 +77,7 @@
 
     To smoothly process the property transaction, kindly confirm the following information:
 
-    - Please provide photos of your identification documents and those of your spouse (if applicable).
+    - Please provide photos of your identification documents (passport or PR card) and those of your spouse (if applicable).
     - Can you and your spouse (if applicable) come to our office in Calgary for the in-person signing of all documents before the closing date?
     - If there is an outstanding mortgage on the property, please provide the mortgage loan number and the name of the borrower. We will contact the bank to handle the repayment of the loan.
     - If the property being sold is a house, please provide the Real Property Report (RPR).
