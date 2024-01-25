@@ -4,14 +4,19 @@ copyright: Copyright &copy; 2023 Jade Sunrise Law
 
 nav:
   - Real Estate:
-      - FAQ: realestate/faq.md
-      - Joint Ownership: realestate/joint.md
-      - What's Title Insurance: realestate/titleinsure.md
-      - Banks' Contact Info: realestate/bankcontact.md
-      - Fee Quotations: realestate/email-quotation.md
-      - First Email to clients: realestate/email-1.md
+      - Clients Classroom:
+          - FAQ: realestate/faq.md
+          - Joint Ownership: realestate/joint.md
+          - What's Title Insurance: realestate/titleinsure.md
+      - Email Templates:
+          - Fee Quotations: realestate/email-quotation.md
+          - First Email to clients: realestate/email-1.md
+      - Common Issues at Closing:
+          - Air Conditioning Unit On RPR: realestate/acrpr.md
+          - New Condo Expedited Registration: realestate/newCondoReg.md
       - Conveyancing Docs List: realestate/docu-list.md
       - Land Usage Search: realestate/usage.md
+      - Banks' Contact Info: realestate/bankcontact.md
   - Corporate:
       - Prepare Initial Minute Book: corporate/minbook.md
       - Minute Book of Share Transfer: corporate/minbook-2.md
@@ -34,7 +39,7 @@ nav:
   - About:
       - What is it: index.md
       # - Contact Us: about/contact.md
-      - Disclaimer: about/disclaimer.md
+      # - Disclaimer: about/disclaimer.md
 
 theme:
   name: material
@@ -129,6 +134,7 @@ markdown_extensions:
 extra_css:
   - assets/css/styled-table.css
   # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
+  - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
 
 extra_javascript:
   - assets/js/mathjax.js
