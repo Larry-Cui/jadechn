@@ -26,13 +26,13 @@ nav:
       - Why We Need a Will: family/will-important.md
       - How to Pick Your Will Executor: family/willDirector.md
   - Notary Services:
-      - A Brief Introduction: notary/intro.md
+      - Procedure and Fees: notary/notary-apostille.md
   # - Immigration:
   #     - Front Page: immigration/crs.md
   - Others:
       - Fees:
           - Real Estate Fees and Disbursements: fees/real-estate.md
-          - Notary Service Quotation: fees/notary.md
+          # - Notary Service Quotation: fees/notary.md
           - Will Quotation: fees/willfee.md
           - Corporate Services: fees/corporateFee.md
           - Hourly Rate 2023: fees/hourlyRate.md
