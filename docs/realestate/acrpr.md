@@ -20,5 +20,5 @@
 - [x] If an air conditioning unit was added to the property after RPR but before June 01, 2008, the Seller should give a statuary declaration confirming the same.
 - [x] To prove the date of installation of air conditioning unit, lawyers should use [evidence that the City of Calgary would accept](https://www.calgary.ca/development/home-building/heating-cooling.html){:target="\_blank"}, namely:
 
-      - [ ] An official receipt or invoice showing the installation date (not the purchase date) of the equipment.
-      - [ ] The builder’s purchase agreement showing record of air conditioning installation.
+      -  An official receipt or invoice showing the installation date (not the purchase date) of the equipment.
+      -  The builder’s purchase agreement showing record of air conditioning installation.
