@@ -13,6 +13,6 @@ E-mail: [calgarysearches@accu-search.com](mailto: calgarysearches@accu-search.co
 >
 > 1. Corporate Search
 > 2. PPSA, Bankruptcy and Insolvency Records Search
-> 3. Status certificate for Alberta/Federal:
+> 3. Status certificate for Alberta/Federal
 
 > Many thanks for your help.

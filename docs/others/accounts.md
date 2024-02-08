@@ -2,8 +2,8 @@
 
 Payable to:
 
-1. H. Zhang Professional Corporation in Trust; or
-2. Jade Sunrise Law in Trust.
+"**H. Zhang Professional Corporation in Trust**"; or<br>
+"**Jade Sunrise Law in Trust**"
 
 ## Wire Payment Info
 
@@ -11,8 +11,7 @@ If the funds is through bank wire payment, please see instruction [here](https:/
 
 ## E-transfer Instruction
 
-Trust Account: retainer@jadesunriselaw.com
-
+Trust Account: retainer@jadesunriselaw.com<br>
 General Account: payment@jadesunriselaw.com
 
 ## Bank Deposit (Void Cheque)

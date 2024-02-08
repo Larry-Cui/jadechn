@@ -37,7 +37,11 @@ nav:
           # - Notary Service Quotation: fees/notary.md
           - Will Quotation: fees/willfee.md
           - Corporate Services: fees/corporateFee.md
-          - Hourly Rate 2023: fees/hourlyRate.md
+          - Immigration:
+              - PNP&#58 Rural Entrepreneur Stream: fees/res-fees.md
+              - Spouse Sponsorship: fees/prss-fees.md
+              - LMIA and Work Permit: fees/lmia-wp-fees.md
+          - Hourly Rate 2024: fees/hourlyRate.md
       - Accounts: others/accounts.md
       - Searches: others/searches.md
   - About:
