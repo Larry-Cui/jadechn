@@ -55,3 +55,7 @@
 ## 办理周期
 
 通常情况下，公证+认证两步的总计用时，约在 1 - 2 个星期内完成。目前没有加急服务。
+
+## 阿省认证样本
+
+请点击[此处](https://drive.google.com/file/d/1kBC7ZPEW50r2H72ShztGVJRd225xsaa-/view?usp=sharing){:target="\_blank"}查看阿尔伯塔省省政府的认证书样本。
