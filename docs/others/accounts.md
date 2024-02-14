@@ -18,6 +18,10 @@ General Account: payment@jadesunriselaw.com
 
 Please check out our law office's void cheque [here](https://drive.google.com/file/d/1atnCRcse4u5vreXM71My9XBeGlCXAgc5/view?usp=sharing){:target="\_blank"}.
 
+## Bank Draft or Money Oder Form
+
+According to Alberta Law Society Rule 119.32(1), trust withdrawals may be made by a bank draft or money order. If a trust withdrawal is to be made by this method, fill out [this form](https://drive.google.com/file/d/1szRy7o8RknX9FMrr8ZuhwIrIcbt-5_8a/view?usp=sharing){:target="\_blank"} and maintain a copy in the clients file.
+
 ## Bank Manager Contact
 
 **Mitch Han 韩业**
