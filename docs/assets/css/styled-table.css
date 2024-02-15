@@ -1,7 +1,13 @@
 :root {
-	--main-color: #26a699;
+	--main-color: #4051b5;
+	/* #26a699; */
 	--light-bg1: #f3f3f3;
-	--light-bg1: #eee;
+}
+
+.table-container {
+	display: flex;
+	align-items: center;
+	justify-content: center;
 }
 
 .styled-table {

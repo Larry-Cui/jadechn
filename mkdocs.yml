@@ -46,8 +46,8 @@ nav:
       - Accounts: others/accounts.md
       - Searches: others/searches.md
   - About:
-      - What is it: index.md
-      # - Contact Us: about/contact.md
+      - Staff Manual: index.md
+      # - Staff Manual: about/manual.md
       # - Disclaimer: about/disclaimer.md
 
 theme:
@@ -144,6 +144,7 @@ extra_css:
   - assets/css/styled-table.css
   # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
+  - assets/css/icon.css
 
 extra_javascript:
   - assets/js/mathjax.js
