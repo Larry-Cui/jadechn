@@ -11,8 +11,14 @@ If the funds is through bank wire payment, please see instruction [here](https:/
 
 ## E-transfer Instruction
 
-Trust Account: retainer@jadesunriselaw.com<br>
-General Account: payment@jadesunriselaw.com
+Trust Account: [retainer@jadesunriselaw.com](mailto: retainer@jadesunriselaw.com){:target="\_blank"}<br>
+General Account: [payment@jadesunriselaw.com](payment@jadesunriselaw.com){:target="\_blank"}
+
+## <i class="fa-brands fa-alipay"></i> Alipay
+
+<a href="https://lh3.googleusercontent.com/pw/AP1GczPtQgq4GI8IYxasLxHTrs8X5X9UiReAWyQrAQVulZgjt5CrDpYyPKdmluWtfCia1mkcErZi2vdG-t8KJ576i1QYryiJDBnLNpZt7d3JFNkSliVc9CQ=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczPtQgq4GI8IYxasLxHTrs8X5X9UiReAWyQrAQVulZgjt5CrDpYyPKdmluWtfCia1mkcErZi2vdG-t8KJ576i1QYryiJDBnLNpZt7d3JFNkSliVc9CQ" style="width: 90%; display: block; margin: 0 auto"/> </a>
+
+Any payment through Alipay is subject to 1.5% surcharge.
 
 ## Bank Deposit (Void Cheque)
 
@@ -36,7 +42,7 @@ Add: 1200 37 Street SW, Calgary, AB, T3C 1S2 <br>
 Also: London Place Branch
 
 E-Mail: [ye.hansr@bmo.com](mailto: ye.hansr@bmo.com) <br>
-M: 403-540-1179<br>
-F: 403-503-7106
+M: [403-540-1179](tel: 403-540-1179)<br>
+F: [403-503-7106](tel: 403-503-7106)
 
 <!-- Check out [this article](this article's relative path within under /docs folder, without suffix `.md`){:target="\_blank"} -->
