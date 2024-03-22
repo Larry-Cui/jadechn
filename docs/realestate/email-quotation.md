@@ -1,6 +1,4 @@
-
 ## Quotation for Buyer
-
 
 === "中文"
 
@@ -8,26 +6,7 @@
 
     **关于律师费及其他费用**
 
-    根据您提供的情况:
-
-    - 房屋类型: 
-    - 售价: 
-    - 贷款银行:
-    - 贷款金额:
-    - 房屋用途:
-    - 远程签字:
-    - 交割日:
-
-    律师费用: 
-
-    - 律师费: 850
-    - 办公及行政杂费: 190 (包括档案管理 50; 打印、传真、快递等 90; 专用软件使用费 50 )
-
-    政府收费:
-
-    - 产权调查、地税调查: 53
-    - 产权过户费： 房价/5000 * 2 + 50
-    - 抵押登记费：注册贷款额/5000 *1.5 + 50 
+    我们提供了[费用计算器](https://jadeapps.netlify.app/){:target="_blank"}，请点击了解估算费用。
 
     同时附上本所的[报价单](https://drive.google.com/file/d/1W6Mfs17Nv0RCpR7fNY3QLXWp76tRhYQo/view?usp=sharing){:target="_blank"}供您参考。如果在实际交易过程中出现报价单中提及的例外情况，则根据实际交易和报价单确定最终费用。
 
@@ -56,27 +35,9 @@
 
     Thank you for your trust in our law firm.
 
-    Regarding legal fees and other expenses, based on the information you provided:
+    **Fees and Disbursements**
 
-    Property Type: <br>
-    Sale Price:<br>
-    Mortgage Bank:<br>
-    Loan Amount:<br>
-    Property Usage:<br>
-    Remote Signature:<br>
-    Closing Date:
-
-
-    **Legal Fees:**
-
-    Legal fee: $850<br>
-    Administrative cost: $190 (including file management $50; printing, fax, courier, etc. $90; conveyancing software fee $50)
-    
-    **Government Charges:**
-
-    Land title searches, property tax search: 53<br>
-    Land transfer fee: $(\text{sale price} / 5000 ) * 2 + 50$<br>
-    Mortgage registration fee: $(\text{Registered loan amount} / 5000 ) * 1.5 + 50$
+    Please refer to our online [fees calculator](https://jadeapps.netlify.app/){:target="_blank"} for a fee estimate.
 
     Attached is our [quotation](https://drive.google.com/file/d/1W6Mfs17Nv0RCpR7fNY3QLXWp76tRhYQo/view?usp=sharing){:target="_blank"} for your reference. If any exceptions occur during the actual transaction process as mentioned in the quotation, the final fees will be determined based on the actual transaction and the quotation.
 
@@ -111,32 +72,13 @@
 
 ## Quotation for Seller
 
-
 === "中文"
 
     感谢您对我们律师事务所的信任。
 
     **关于律师费及其他费用**
 
-    根据您提供的情况:
-
-    - 房屋类型: 
-    - 售价:
-    - 有无抵押:
-    - 有无RPR: 
-    - 远程签字:
-    - 交割日:
-
-    律师费用: 
-
-    - 律师费: 850
-    - 办公及行政杂费: 190 (包括档案管理 50; 打印、传真、快递等 90; 专用软件使用费 50 )
-
-    政府及第三方收费:
-
-    - 产权调查、地税调查: 33
-    - 抵押注销费：15
-    - HOA或公寓Estoppel Certificate申请费：视具体物业所在小区规定
+    我们提供了[费用计算器](https://jadeapps.netlify.app/){:target="_blank"}，请点击了解估算费用。
 
     同时附上本所的[报价单](https://drive.google.com/file/d/1W6Mfs17Nv0RCpR7fNY3QLXWp76tRhYQo/view?usp=sharing){:target="_blank"}供您参考。如果在实际交易过程中出现报价单中提及的例外情况，则根据实际交易和报价单确定最终费用。
 
@@ -156,33 +98,16 @@
     3.	如果您参加了房地产税的分期付款计划（TIPP），请您不要忘记取消这一计划。 每月22日前申请取消的，下月不再扣款。您取消计划后请告诉我们。
     4.	交房日当天，律师在收到购房款后，通知您的地产经纪放钥匙给买家。
     5.	律师从售房款中划付按揭贷款还款、中介费、律师费以及其他需要付清的费用，然后将剩余款项支付给您。
-    
+
     谢谢您对我们的支持和信任！
 
 === "English"
 
     Thank you for your trust in our law firm.
 
-    Regarding legal fees and other expenses, based on the information you provided:
+    **Fees and Disbursements**
 
-    Property Type:<br>
-    Sale Price:<br>
-    Mortgage: Yes/No<br>
-    RPR (Real Property Report): Yes/No<br>
-    Remote Signature:<br>
-    Closing Date:
-
-    **Legal Fees:**
-
-    Legal fee: 850<br>
-    Administrative Fees: $190 (including file management $50; printing, fax, courier, etc. $90; conveyancing software fee $50)
-
-    **Government and Third-Party Charges:**
-
-    Property rights investigation, land tax investigation: $33<br>
-    Mortgage discharge fee: $15<br>
-    HOA (Homeowners Association) and/or Condo Estoppel Certificate application fee: Depending on the specific property situation
-
+    Please refer to our online [fees calculator](https://jadeapps.netlify.app/){:target="_blank"} for a fee estimate.
 
     Attached is our [quotation](https://drive.google.com/file/d/1W6Mfs17Nv0RCpR7fNY3QLXWp76tRhYQo/view?usp=sharing){:target="_blank"} for your reference. If any exceptions occur during the actual transaction process as mentioned in the quotation, the final fees will be determined based on the actual transaction and the quotation.
 
