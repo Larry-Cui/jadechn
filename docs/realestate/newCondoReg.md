@@ -17,6 +17,6 @@ There are two ways to submit registration to Land Titles Office, by delivery of 
 The process is as follows:
 
 1. Submit the transfer registration just as in any other deals, except that in "DRR Special Instructions", indicate: **ATTN SURVEYS, NEW CONDO REGISTRATION**
-2. Submit the request to [ACT@gov.ab.ca](mailto: ACT@gov.ab.ca){:target="\_blank"} with the subject line as: **ATTN SURVEYS, NEW CONDO REGISTRATION**, and attach completed “**Request for Expedited Condominium Registration**” form to email request
+2. Submit the request to [ACT@gov.ab.ca](mailto: ACT@gov.ab.ca){:target="\_blank"} with the subject line as: **ATTN SURVEYS, NEW CONDO REGISTRATION, DRR# (Applicable DRR Number)**, and attach completed “**Request for Expedited Condominium Registration**” form to email request
 
 > It is not required to attach completed “Request for Expedited Condominium Registration” form with digital ALTO submission package. The form is only required to be sent to the online email [ACT@gov.ab.ca](mailto: ACT@gov.ab.ca){:target="\_blank"} for E-Submissions during request for Expedited Condo Transfer.
