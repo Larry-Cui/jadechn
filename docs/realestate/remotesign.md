@@ -9,7 +9,7 @@ This post extracts the most common transfer documents for remote signing from it
 - [x] [Transfer](https://docs.google.com/document/d/1RsXteEICpPMNYO2dtEhtwjJAk098crsP/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}[^1]
 - [x] [Affidavit of Attestation for in-person signing](https://docs.google.com/document/d/1vS3ypvNplRlthzJbzbqm1Lc4gQZNg8q3/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}
 - [x] [Affidavit of Attestation for remote signing](https://docs.google.com/document/d/1hz49B7SchCap2I7UuvhX7kSv4L6XmwZV/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}
-- [x] [Affidavit Verifying Corporate Signing Authority](https://docs.google.com/document/d/1hz49B7SchCap2I7UuvhX7kSv4L6XmwZV/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}
+- [x] [Affidavit Verifying Corporate Signing Authority](https://docs.google.com/document/d/1jMfv0kdCcR4ReavYVXoWoh4Yao9d7Q5H/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}
 - [x] [Affidavit remotely Verifying Corporate Signing Authority](https://docs.google.com/document/d/1i1ohJc0XSB16pNj3kATfG_fSJJCD1t9D/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}
 
 [^1]: The transfer document is same for both in-person or remote signing
