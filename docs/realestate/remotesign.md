@@ -18,3 +18,8 @@ This post extracts the most common transfer documents for remote signing from it
 
 - [x] [Affidavit re Value](https://docs.google.com/document/d/1HK47Q_jLLxnU4Mevag3bHv_GayBfQDwl/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}
 - [x] [Affidavit re Value for remote signing](https://docs.google.com/document/d/1HdXpc4RbqONlAttZq7aQ8llQ8Oq4RXoa/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}
+
+## Dower Affidavit Remote
+
+- [x] [Seller Dower Affidavit](https://docs.google.com/document/d/1KO42m-GlezCKfSTeYLHQIu_gu4_L5xd0/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}
+- [x] [Mortgagor Dower Affidavit](https://docs.google.com/document/d/1E6jVR2-25QTG1tiWSWTruXBQPXIPN5uU/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target="\_blank"}

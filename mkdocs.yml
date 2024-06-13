@@ -11,16 +11,16 @@ nav:
       - Email Templates:
           - Fee Quotations: realestate/email-quotation.md
           - First Email to clients: realestate/email-1.md
-      - Common Issues at Closing:
+      - RPR Issues:
           - Air Conditioning Unit On RPR: realestate/acrpr.md
-          - New Condo Expedited Registration: realestate/newCondoReg.md
-          - Out of Province Signing Instruction: realestate/ops.md
-          - Special Formality of Remote Signing: realestate/remotesign.md
-      - Conveyancing Docs List: realestate/docu-list.md
-      - RPR Checklist: realestate/rpr-checklist.md
+          - RPR Checklist: realestate/rpr-checklist.md
+          - Land Usage Search: realestate/usage.md
       - Deal To Do list: realestate/deal-checklist.md
+      - Conveyancing Docs List: realestate/docu-list.md
+      - Special Formality of Remote Signing: realestate/remotesign.md
+      - New Condo Expedited Registration: realestate/newCondoReg.md
+      - Out of Province Signing Instruction: realestate/ops.md
       - Non Tax Resident Withholding: realestate/2024-02-26-nonResidentTax.md
-      - Land Usage Search: realestate/usage.md
       - Banks' Contact Info: realestate/bankcontact-new.md
   - Corporate:
       - Prepare Initial Minute Book: corporate/minbook.md
