@@ -16,8 +16,13 @@ Please check out this [Mortgage Banks Contact](https://drive.google.com/file/d/1
 ??? success "CIBC"
 
     **Payout**<br>
-    Fax: 1-800-294-8393 <br>
-    Hotline: 1-888-264-6843
+    Fax: 1-800-294-8393
+
+    **Request For Funds**<br>
+    Fax: 1-844-739-1157
+
+    **Hotline**<br>
+    Phone: 1-888-264-6843
 
 ??? success "TD Bank"
 
