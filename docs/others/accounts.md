@@ -62,4 +62,12 @@ F: [403-503-7106](tel: 403-503-7106)
 **Branch #:** 02059 <br>
 **Institution #:** 004
 
+## CIBC @ North Hill Station
+
+**Address:** 2015 - 16th Avenue Northwest Calgary, AB T2M 0M3
+
+**Call:** 403-974-2734 <br>
+**Branch #:** 00319 <br>
+**Institution #:** 010
+
 <!-- Check out [this article](this article's relative path within under /docs folder, without suffix `.md`){:target="\_blank"} -->
