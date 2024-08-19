@@ -51,6 +51,7 @@ nav:
       - Accounts: others/accounts.md
       - Searches: others/searches.md
       - Credit Card: others/2024-03-01-creditCard.md
+      - Path to Practice in Canada: others/ptpc.md
   - About:
       - Office Manual: index.md
       # - Staff Manual: about/manual.md
@@ -151,6 +152,8 @@ extra_css:
   # - https://unpkg.com/leaflet@1.9.4/dist/leaflet.css
   - https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css
   - assets/css/icon.css
+  - assets/css/extra.css
+  - assets/css/other.css
 
 extra_javascript:
   - assets/js/mathjax.js
