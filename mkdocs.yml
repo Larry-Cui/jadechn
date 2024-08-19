@@ -2,6 +2,9 @@ site_name: Office Manual
 site_url: https://jadesunriselaw.netlify.app/
 copyright: Copyright &copy; 2023 Jade Sunrise Law
 
+# local serve to a different portal:
+# mkdocs serve -a localhost:8001
+
 nav:
   - Real Estate:
       - Clients Classroom:
