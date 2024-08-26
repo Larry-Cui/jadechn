@@ -14,7 +14,7 @@
 	--md-primary-fg-color--dark: #7e4300;
 }
 
-[data-md-color-scheme="slate"] {
+/* [data-md-color-scheme="slate"] {
 	--md-primary-fg-color: #023047;
 	--md-primary-fg-color--light: #219ebc;
 	--md-primary-fg-color--dark: #000a0e;
@@ -23,7 +23,7 @@
 	--md-accent-fg-color--dark: #7e4300;
 	--md-typeset-a-color: #219ebc;
 	--md-hue: 210;
-}
+} */
 
 /* :root {
 	--md-primary-fg-color: #023047;
