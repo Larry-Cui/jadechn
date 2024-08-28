@@ -52,6 +52,8 @@ nav:
       - Searches: others/searches.md
       - Credit Card: others/2024-03-01-creditCard.md
       - Refund: others/tpp.md
+  - Scripts:
+      - blog/index.md
   - About:
       - Office Manual: index.md
       - Path to Practice in Canada: others/ptpc.md
@@ -126,6 +128,8 @@ extra:
 plugins:
   - search
   - tags
+  - blog:
+      draft_on_serve: false
 
 markdown_extensions:
   - admonition
