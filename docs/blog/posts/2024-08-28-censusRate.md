@@ -11,6 +11,15 @@ tags:
 draft: false
 ---
 
+<div class="videoWrapper">
+<iframe src="https://www.youtube.com/embed/QvZ9QPhRi1o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div style="display: flex; align-items: flex-start; justify-content: center; font-size: 14px; color: #777;"></div>
+
+<!-- <iframe width="1280" height="963" src="https://www.youtube.com/embed/QvZ9QPhRi1o" title="工签变政，小伙伴们还可以去哪里" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
+
+<br>
+
 **小伙伴们，大家好呀！从这个系列开始，我们带大家逛逛卡尔加里各种好玩好吃的地儿，同时聊聊移民的话题。想要移民加拿大，了解当地生活的小伙伴们，千万不要错过喔！**
 
 <!-- more -->
@@ -33,7 +42,7 @@ Elbow River 从西南流经卡尔加里，然后北上汇入弓河。有水库�
 
 **回到移民的话题，今天我们讲讲 8 月 26 日加拿大政府颁布的工签新政策。**
 
-简单总结，就是从今年 9 月 26 日起，加拿大不再批准失业率超过 6%地区的 C、D 类工签申请。而可以继续审批工签的地区，C、D 类岗位的比例，也被卡死在用人单位员工总数的 10%这个上限以内。
+简单总结，就是从今年 9 月 26 日起，除食品、建筑和健康医疗这几个特定行业外，加拿大不再批准失业率超过 6%地区的 C、D 类工签申请。而可以继续审批工签的地区，C、D 类岗位的比例，也被卡死在用人单位员工总数的 10%这个上限以内。
 
 C、D 类雇主担保这条路径，在新政之后，可能就不那么容易走通了。因为根据 2024 年 7 月份加拿大失业率统计数据，绝大部分我们华人扎堆的热点地区，失业率都超过了 6%。
 
