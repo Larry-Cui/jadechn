@@ -1,4 +1,3 @@
-
 ## First Email to Buyer
 
 === "中文"
@@ -35,12 +34,12 @@
 
     - Please provide photos of your identification documents （passport or PR card) as well as those of any other co-purchasers (if applicable).
     - Can you and any other co-purchasers (if applicable) come to our office in Calgary for the in-person signing of all documents before the closing date?
-    - Please inform us of the name(s) to be registered on the property title. If there are two or more owners to be registered, please specify your choice of joint tenancy or tenants in common. 
+    - Please inform us of the name(s) to be registered on the property title. If there are two or more owners to be registered, please specify your choice of joint tenancy or tenants in common.
     - Let us know if the property you are transferring will be used for own use or for rental.
     - Provide the mailing address you want to be registered on the property title. Government-related tax and property documents will be mailed to this address after the property transaction is completed.
     - Please inform us if you are applying a mortgage loan for the purchase of this property, and please also tell us the lender's name(if already provided, please disregard this question).
     - Your occupation, employer, and job title?
-    
+
     **Regarding Home Insurance**
 
     If you have a mortgage loan, home insurance is mandatory. Please contact your insurance company or agent to promptly secure home insurance. The insurance policy must be effective no later than the closing date. If you are purchasing a townhouse or condominium, the property itself might already have insurance arranged by the management company, in which case, you do not need to duplicate coverage.
@@ -52,7 +51,7 @@
     Regarding Title Insurance
 
     **Title insurance**
-    
+
     This is not mandatory unless the property is for commercial use. However, title insurance can significantly safeguard the transfer of the property you are purchasing, so many clients choose to purchase it. The premium for title insurance is a one-time fee, approximately $700 - $800 for a property with a sale price of one million. If you want to purchase title insurance, you can authorize our firm to handle it, and we will charge an additional service fee of $100.
 
 ## First Email to Seller
@@ -60,7 +59,7 @@
 === "中文"
 
     感谢选择本所为您的房产出售提供法律服务。
- 
+
     **为顺利办理房产交易过户，烦请帮助确认以下信息：**
 
     - 请提供您本人及配偶（如有）的加拿大护照或PR卡照片。
@@ -82,6 +81,6 @@
     - If there is an outstanding mortgage on the property, please provide the mortgage loan number and the name of the borrower. We will contact the bank to handle the repayment of the loan.
     - If the property being sold is a house, please provide the Real Property Report (RPR).
     - Please confirm if you have made any alterations to the exterior or yard of the property, such as building or reconstructing a fence, deck, flower bed, shed, etc., after the issuance of the Real Property Report.
-    
-    
+
+
     If you have any questions or concerns regarding the above information, please feel free to contact us at any time. Thank you!
