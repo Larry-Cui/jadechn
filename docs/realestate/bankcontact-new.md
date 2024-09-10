@@ -29,8 +29,8 @@ Please check out this [Mortgage Banks Contact](https://drive.google.com/file/d/1
     **Car Loan Payout**<br>
     Fax: 1-877-304-3488
 
-    **Mortgage Payout**<br>
-    Fax: 1-207-755-4245
+    **Mortgage Payout Request**<br>
+    Fax: 1-866-400-0949
 
     **Back Office**<br>
     Phone: 866-788-2493
