@@ -12,7 +12,7 @@ If the funds is through bank wire payment, please see instruction [here](https:/
 ## E-transfer Instruction
 
 Trust Account: [retainer@jadesunriselaw.com](mailto: retainer@jadesunriselaw.com){:target="\_blank"}<br>
-General Account: [payment@jadesunriselaw.com](payment@jadesunriselaw.com){:target="\_blank"}
+General Account: [payment@jadesunriselaw.com](mailto: payment@jadesunriselaw.com){:target="\_blank"}
 
 ## <i class="fa-brands fa-alipay"></i> Alipay
 

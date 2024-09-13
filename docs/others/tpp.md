@@ -45,6 +45,6 @@ This is a typical "third-party payer situation". You need to be very careful whe
 
 ## Summary
 
-The suggested practice is to have the client and the third party payer consent in writing how to deal with the situation when the trust funds need to be refunded.
+The suggested practice is to have the client and the third party payer consent in writing how to deal with the situation when the trust funds need to be refunded. Here is [an example](https://docs.google.com/document/d/1doYWwGEVawV-Y3365viASrUDo-KkHLs4/edit?usp=sharing&ouid=104966965464336911050&rtpof=true&sd=true){:target=" \_blank"} of the third party's acknowledgement and consent.
 
 If such agreement is absent, then rules require the funds to be refunded to the third party payer.
