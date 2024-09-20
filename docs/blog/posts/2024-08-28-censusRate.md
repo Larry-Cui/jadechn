@@ -18,8 +18,6 @@ draft: false
 
 <!-- <iframe width="1280" height="963" src="https://www.youtube.com/embed/QvZ9QPhRi1o" title="工签变政，小伙伴们还可以去哪里" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe> -->
 
-<br>
-
 **小伙伴们，大家好呀！从这个系列开始，我们带大家逛逛卡尔加里各种好玩好吃的地儿，同时聊聊移民的话题。想要移民加拿大，了解当地生活的小伙伴们，千万不要错过喔！**
 
 <!-- more -->

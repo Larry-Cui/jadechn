@@ -16,8 +16,6 @@ draft: false
 </div>
 <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 14px; color: #777;"></div>
 
-<br>
-
 **今天的移民话题，我们聊聊在 2024 年 9 月份的当下，“旅转工”是否还能走通？**
 
 <!-- more -->
