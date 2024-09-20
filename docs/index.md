@@ -309,3 +309,147 @@ _**Disclaimer: No Employment Contract**_
     - **Doors:** Before leaving for lunch, if nobody else is in the office, check outside doors to make sure they are locked. Always lock the front door when you leave for the evening. The paralegal is responsible for keeping the door to the executive offices locked.
 
           The associate is responsible for keeping the outside door of the associate’s office locked. To prevent accidental entry, keep these two doors locked most of the time. The last person to leave should make sure that all exterior doors are locked.
+
+??? info "Jade Sunrise Law Lunch Break Policy"
+
+    1. **Standard Lunch Break Timing:**
+    <br>The designated lunch break for all employees is from 12:00 PM to 1:00 PM.
+
+    2. **Adjustments to Lunch Breaks:**
+    <br>Individual lunch breaks may be adjusted by the Office Manager or Principal Lawyer based on business requirements and operational needs.
+
+    3. **Coordination with Supervisors:**
+    <br>Employees are expected to coordinate their lunch breaks with their supervisors to ensure that their absence does not interfere with ongoing business operations. Staggered lunch breaks may be required to maintain business continuity.
+
+    4. **Leaving the Workplace:**
+    <br>Employees are permitted to leave the workplace during their lunch break. However, they must return punctually. If the lunch break is taken off-premises, employees must ensure that they return on time.
+
+    5. **Communication for Schedule Changes:**
+    <br>Any changes to the regular lunch schedule, such as extending the lunch break due to work-related commitments, must be communicated in advance to the Office Manager.
+
+    6. **Flexibility:**
+    <br>In some cases, employees may have the flexibility to adjust their lunch breaks based on workload or personal needs, provided it does not disrupt normal business operations.
+
+??? info "Professionalism Communication and Customer Service Skills"
+
+    ### On the Phone
+
+    - **Step 1: Answer promptly and politely**
+        <br>Greet the caller: “Good morning/afternoon, [Law Firm Name], this is [Your Name]. How may I assist you?”
+
+    - **Step 2: Identify the client’s needs**
+        <br>Listen attentively to their request or concern. Ask clarifying questions if needed.
+
+    - **Step 3: Confirm client details**
+        <br>Politely confirm the client’s name and file number or case details if necessary.
+
+    - **Step 4: Provide accurate information**
+        <br>Give clear, concise, and accurate answers. If you don’t have the information, offer to follow up: “I’ll need to look into that and get back to you shortly.”
+
+    - **Step 5: Take notes**
+        <br>Record important details, especially action items or client concerns.
+
+    - **Step 6: Close politely**
+        <br>Summarize the conversation, confirm next steps, and close politely: “Thank you for your call, [*Client’s Name*]. I’ll follow up with you by [*timeframe*]. Have a great day.”
+
+    ### On the Phone (Difficult or Rude Clients)
+
+    - **Step 1: Stay calm and composed**
+        <br>Keep your tone polite and neutral, even if the client is upset. Avoid taking their frustration personally.
+        <br>*Example*:
+
+        > “I understand this is a frustrating situation, and I’m here to help.”
+
+    - **Step 2: Acknowledge their concerns**
+        <br>Show empathy and validate their feelings. This can help de-escalate the tension.
+        <br>*Example*:
+
+        > “I can see why this issue is causing concern. Let’s work through it together.”
+
+    - **Step 3: Redirect to the issue, not the emotions**
+        <br>Keep the conversation focused on solving the problem, not the emotional outburst.
+        <br>*Example*:
+
+        > “Let’s focus on how we can resolve this. Can you provide more details so I can assist better?”
+
+    - **Step 4: Set boundaries respectfully**
+        <br>If the client becomes overly aggressive or abusive, set clear, respectful boundaries.
+        <br>*Example*:
+
+        > “I want to help you, but I need us to keep the conversation respectful so we can resolve this effectively.”
+
+    - **Step 5: Offer a solution or follow-up**
+        <br>Suggest a solution or a next step to help the client feel heard and move the conversation forward.
+        <br>*Example*:
+
+        > “Here’s what we can do next: I’ll review this issue and get back to you by [time]. Does that work for you?”
+
+    - **Step 6: End on a positive note**
+        <br>Close the call professionally, even if the conversation was difficult.
+        <br>*Example*:
+
+        > “Thank you for bringing this to our attention. I’ll be in touch soon with an update.”
+
+    ### In the Office (In-Person)
+
+    - **Step 1: Greet the client professionally**
+        <br>Stand up, smile, and shake hands. “Good morning/afternoon, [Client’s Name], welcome to [Law Firm Name]. How are you today?”
+
+    - **Step 2: Offer hospitality**
+        <br>Offer them a seat and possibly water or coffee if available: “Please take a seat, would you like some water or coffee?”
+
+    - **Step 3: Clarify the purpose of the visit**
+        <br>Ask how you can assist: “How can I help you today?”
+
+    - **Step 4: Provide assistance or pass to the appropriate lawyer**
+        <br>If it’s a quick inquiry, provide help directly. Otherwise, introduce or guide them to the lawyer handling their case: “I’ll let [Lawyer’s Name] know you’re here. They’ll be with you shortly.”
+
+    - **Step 5: Maintain professionalism throughout**
+        <br>Keep the interaction professional and friendly, ensuring the client feels comfortable and respected.
+
+    - **Step 6: Close the meeting**
+        <br>Thank them for coming and confirm any follow-up: “Thank you for visiting today. We’ll follow up on [next steps]. Have a great day.”
+
+    ### In-Person (Difficult or Rude Clients)
+
+    - **Step 1: Stay professional and neutral**
+        <br>Maintain a calm demeanor and a professional tone, no matter how the client behaves. Body language is key; stay open and non-defensive.
+        <br>*Example*:
+
+        > “I understand you’re upset. Let’s sit down and discuss how we can resolve this.”
+
+    - **Step 2: Listen actively and acknowledge**
+        <br>Let the client vent if necessary, and show that you are listening. Sometimes, difficult clients just need to feel heard.
+        <br>*Example*:
+
+        > “I can see this situation is really important to you. I’m listening and want to understand fully.”
+
+    - **Step 3: Defuse with empathy and understanding**
+        <br>Try to find common ground, showing that you’re on their side and willing to help.
+        <br>*Example*:
+
+        > “I understand how this could be frustrating. Let’s go over the details, and I’ll do my best to assist.”
+
+    - **Step 4: Reframe and redirect the conversation**
+        <br>Politely steer the conversation away from any rudeness and back to the core issue.
+        <br>*Example*:
+
+        > “Let’s focus on the next steps we can take to address your concern.”
+
+    - **Step 5: Use calming language and set boundaries if needed**
+        <br>If the client is being abusive or aggressive, calmly but firmly set limits.
+        <br>*Example*:
+
+        > “I want to help you, but we need to keep the conversation respectful. If we continue like this, I’ll have to ask you to leave, and we can reschedule.”
+
+    - **Step 6: Stay solution-focused and follow up**
+        <br>Suggest a resolution or an action plan, so the client knows their issue is being handled.
+        <br>*Example*:
+
+        > “Here’s what I’ll do to address this. I’ll review the details with the team, and we will update you by [time].”
+
+    - **Step 7: End the interaction on a constructive note**
+        <br>Ensure that the client leaves the conversation or meeting with a sense that progress is being made.
+        <br>*Example*:
+
+        > “Thank you for your patience. We’ll work on this and be in touch shortly with a solution.”
