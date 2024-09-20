@@ -67,19 +67,6 @@ _**Disclaimer: No Employment Contract**_
 
     A copy of the written warning will be placed in the employee’s personnel folder and a copy will be given to the employee for his/her personal file. If the problem continues beyond the written warning, further disciplinary action will be taken—up to and including termination of employment.
 
-??? info "Employment at Will"
-
-    <!-- ## Employment at Will -->
-
-    Employment with the firm is voluntarily entered into, and the employee is free to terminate his/her employment at will at any time, with or without cause. Similarly, the firm may terminate the employment relationship at will at any time, with or without notice or cause.
-
-    Policies set forth in this handbook are not intended to create a contract, nor are they to be construed to constitute contractual obligations of any kind or a contract of employment between the firm and any of its employees.
-
-    The provisions of the handbook have been developed at the discretion of firm management and, except for its policy of employment-at-will, may be amended or cancelled at any time, at the firm’s sole discretion.
-
-    - Life/Medical Benefits
-    - Fitness Club: You are eligible for a fitness club membership. If you are interested, let Kathy know.
-
 ??? info "Equal Employment Opportunity"
 
     <!-- ## Equal Employment Opportunity -->
