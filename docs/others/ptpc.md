@@ -46,6 +46,10 @@ Secure an articling placement for 8 to 12 months. You must also apply for and co
 
 Once your articles and bar admissions course are complete, you need to arrange to be called to the bar and to apply to the relevant law society for a licence to practise law.
 
+## Route Map
+
+<a href="https://lh3.googleusercontent.com/pw/AP1GczOWZQEvbDsVn2xfX3-FTP4SPO2-Qb0No03XDKsgppcmpBR4oNplbp1lhdfL6S8XySH3tG_r2ASEFs4Ln8OgAuprbxyeQAkoLXCj5w0fleOCIpRe_vA=w2400?source=screenshot.guru"> <img src="https://lh3.googleusercontent.com/pw/AP1GczOWZQEvbDsVn2xfX3-FTP4SPO2-Qb0No03XDKsgppcmpBR4oNplbp1lhdfL6S8XySH3tG_r2ASEFs4Ln8OgAuprbxyeQAkoLXCj5w0fleOCIpRe_vA" style="width: 100%"/> </a>
+
 ## First Thing First: obtain NCA Assessment
 
 Complete the online assessment application form at NCA [official website](https://nca.legal/){:target=" \_blank"}.
@@ -97,9 +101,9 @@ Students in the FTLP must complete the following 24 units of coursework achievin
 | Law 503 | Administrative Law          |
 | Law 510 | Ethical Lawyering           |
 
-<p class="highlight red">Successful completion of Law 400, 410, 420, 503 and 510 fulfills the educational requirements of the <strong>five core subjects</strong> in the Canadian-specific content outlined by the NCA in its Policy Manual March 31, 2023, section 5.2.</p>
+Successful completion of Law 400, 410, 420, 503 and 510 fulfills the educational requirements of the **five core subjects** in the Canadian-specific content outlined by the NCA in its Policy Manual March 31, 2023, section 5.2.
 
-Satisfactory performance in Faculty of Law courses is a **C-** or higher.
+<p class="highlight red">Satisfactory performance in Faculty of Law courses is a <strong>C-</strong> or higher.</p>
 
 ## Study Permit
 
