@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2025年起移民数量大幅下调
+title: 2025年加拿大还能移民吗？
 date: 2024-10-24
 categories:
   - Chinese
@@ -11,7 +11,7 @@ draft: false
 ---
 
 <div class="videoWrapper">
-<iframe src="https://www.youtube.com/embed/IGkI4ZFqxxQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe src="https://www.youtube.com/embed/AbXA81oao_4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 <div style="display: flex; align-items: flex-start; justify-content: center; font-size: 14px; color: #777;"></div>
 
