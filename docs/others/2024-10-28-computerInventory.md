@@ -10,7 +10,7 @@ tags:
   - Computer and others
 ---
 
-# Computer Inventory List
+# Computer Inventory List (Oct. 28th, 2024)
 
 <!-- more -->
 
