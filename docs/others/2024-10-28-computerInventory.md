@@ -1,16 +1,17 @@
 ---
 layout: post
-title: Computer Inventory List
+title: Computers and Peripherals
 date: 2024-10-28
 draft: false
 categories:
   - Others
 tags:
-  - Inventory
-  - Computer and others
+  - Fixed Asset
+  - Computers
+  - Peripherals
 ---
 
-# Computer Inventory List (Oct. 28th, 2024)
+# Computers and Peripherals (Oct. 28th, 2024)
 
 <!-- more -->
 
@@ -69,7 +70,7 @@ tags:
     </tr>
     <tr>
         <td>Sophie</td>
-        <td>1</td>
+        <td></td>
         <td>LG 27"</td>
         <td></td>
     </tr>
