@@ -54,6 +54,18 @@ draft: false
 
 2024 年 12 月 23 日，移民部宣布，将取消 LMIA 在联邦快速通道中的 50 分加分，再一次打击雇主担保项目的竞争力。
 
+同一天，边境管理局也宣布，取消边境学签和边境工签，堵死了“旅转学”和“旅转工”的通道。
+
+另外，再说说移民部对移民目标的整体调整计划。
+
+2024 年 10 月 24 日，移民部宣布了新的三年计划。2025 年的移民名额从原先的 50 万，缩减为 39.5 万。而减少的 11 万数量中，有一半砍在省提名名额上。
+
+以上，就是 2024 年的移民新政情况，基本上没有好消息。但是，小伙伴们也不要气馁，学签、工签收紧的起因，无非是移民部针对加拿大经济放缓、就业市场不乐观而做出的自然反应。从这个角度来说，2025 年的投资移民项目，有可能反而迎来利好。
+
+好了，今天就聊到这里吧！有其它问题的小伙伴们，欢迎私信留言咨询喔。
+
+## 官方链接
+
 1. [The cost-of-living requirement for study permit applicants](https://www.canada.ca/en/immigration-refugees-citizenship/news/2023/12/revised-requirements-to-better-protect-international-students.html){:target=" \_blank"}
 2. [New international student permits 360,000 for 2024, a decrease of 35% from 2023](https://www.canada.ca/en/immigration-refugees-citizenship/news/2024/01/canada-to-stabilize-growth-and-decrease-number-of-new-international-student-permits-issued-to-approximately-360000-for-2024.html){:target=" \_blank"}, Master and Doctor in the quota of 2025. [PAL](https://www.canada.ca/en/immigration-refugees-citizenship/services/study-canada/study-permit/get-documents/provincial-attestation-letter.html){:target=" \_blank"}.
 3. [End of the Student Direct Stream and Nigeria Student Express](https://www.canada.ca/en/immigration-refugees-citizenship/news/notices/end-student-direct-stream-nigeria-student-express.html){:target=" \_blank"}
