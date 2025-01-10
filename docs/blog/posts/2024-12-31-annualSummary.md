@@ -10,6 +10,11 @@ tags:
 draft: false
 ---
 
+<div class="videoWrapper">
+<iframe src="https://www.youtube.com/embed/LdFwNTV8kEA" title="2024年移民政策年度回顾" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+<div style="display: flex; align-items: flex-start; justify-content: center; font-size: 14px; color: #777;"></div>
+
 <!-- more -->
 
 亲爱的小伙伴们，很高兴在 2025 年的第一期节目跟大家见面，祝大家新年快乐，万事如意！
