@@ -38,6 +38,7 @@ nav:
   # - Immigration:
   #     - Front Page: immigration/crs.md
   - Others:
+      - Open File: others/fileOpenManual.md
       - Fees:
           - Real Estate Fees and Disbursements: fees/real-estate.md
           # - Notary Service Quotation: fees/notary.md
