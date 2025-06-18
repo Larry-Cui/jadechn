@@ -58,6 +58,7 @@ nav:
       - blog/index.md
   - About:
       - Office Manual: index.md
+      - Scholarship: others/scholarship.md
       - Path to Practice in Canada: others/ptpc.md
       # - Staff Manual: about/manual.md
       # - Disclaimer: about/disclaimer.md
