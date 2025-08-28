@@ -33,7 +33,12 @@ According to Alberta Law Society Rule 119.32(1), trust withdrawals may be made b
 **Mitch Han 韩业**
 
 Senior Relationship Manager<br>
-Canadian Business Banking
+Canadian Business Banking<br>
+E-Mail: [ye.hansr@bmo.com](mailto: ye.hansr@bmo.com)
+
+**YONG, EUN**
+
+E-Mail: [EUN.YONG@bmo.com](mailto:EUN.YONG@bmo.com)
 
 **BMO Bank of Montreal**
 
@@ -41,7 +46,6 @@ Main: Westbrook Shopping Centre Branch <br>
 Add: 1200 37 Street SW, Calgary, AB, T3C 1S2 <br>
 Also: London Place Branch
 
-E-Mail: [ye.hansr@bmo.com](mailto: ye.hansr@bmo.com) <br>
 M: [403-540-1179](tel: 403-540-1179)<br>
 F: [403-503-7106](tel: 403-503-7106)
 
