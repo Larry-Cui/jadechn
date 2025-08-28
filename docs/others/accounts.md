@@ -38,6 +38,7 @@ E-Mail: [ye.hansr@bmo.com](mailto: ye.hansr@bmo.com)<br>
 M: [403-540-1179](tel: 403-540-1179)
 
 **YONG, EUN**
+
 Relationship Manager<br>
 E-Mail: [EUN.YONG@bmo.com](mailto:EUN.YONG@bmo.com)<br>
 M: [587-226-1476](tel: 587-226-1476)
