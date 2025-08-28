@@ -34,19 +34,20 @@ According to Alberta Law Society Rule 119.32(1), trust withdrawals may be made b
 
 Senior Relationship Manager<br>
 Canadian Business Banking<br>
-E-Mail: [ye.hansr@bmo.com](mailto: ye.hansr@bmo.com)
+E-Mail: [ye.hansr@bmo.com](mailto: ye.hansr@bmo.com)<br>
+M: [403-540-1179](tel: 403-540-1179)
 
 **YONG, EUN**
+Relationship Manager<br>
+E-Mail: [EUN.YONG@bmo.com](mailto:EUN.YONG@bmo.com)<br>
+M: [587-226-1476](tel: 587-226-1476)
 
-E-Mail: [EUN.YONG@bmo.com](mailto:EUN.YONG@bmo.com)
 
 **BMO Bank of Montreal**
 
 Main: Westbrook Shopping Centre Branch <br>
 Add: 1200 37 Street SW, Calgary, AB, T3C 1S2 <br>
-Also: London Place Branch
-
-M: [403-540-1179](tel: 403-540-1179)<br>
+Also: London Place Branch<br>
 F: [403-503-7106](tel: 403-503-7106)
 
 ## BMO Branch @ Telus Tower
